@@ -1,2 +1,2 @@
-# C4_rice
-Scripts for C4 rice limits paper
+# C4 Rice
+Scripts, plots, and results for C4 rice limits paper
